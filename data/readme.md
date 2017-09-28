@@ -17,7 +17,9 @@ https://fullfact.org/media/uploads/full_fact-the_state_of_automated_factchecking
 Fact checking system:
 
 http://www.vldb.org/pvldb/vol10/p1945-li.pdf
+
 http://www.vldb.org/pvldb/vol7/p589-wu.pdf
+
 https://dl.acm.org/citation.cfm?id=2733029
 
 
